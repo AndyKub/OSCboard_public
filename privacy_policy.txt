@@ -1,0 +1,22 @@
+Privacy Policy for OSCboard
+
+OSCboard respects your privacy. This Privacy Policy explains how information is handled when you use the application.
+
+Data Collection
+OSCboard does not collect, store, or process any personal data or personally identifiable information.
+
+Network Communication
+The app allows users to send OSC (Open Sound Control) messages to network addresses specified by the user. These messages are sent directly to the configured destination and are not collected, stored, or shared by the app or the developer.
+
+Third-Party Services
+OSCboard does not use third-party analytics, advertising, or tracking services.
+
+Data Sharing
+No user data is shared with third parties.
+
+Changes to This Policy
+This Privacy Policy may be updated in the future. Any changes will be reflected on this page.
+
+Contact
+If you have any questions about this Privacy Policy, you can contact the developer at:
+andrewkub.kz@gmail.com
